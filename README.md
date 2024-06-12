@@ -1,16 +1,15 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL! 😎
 
-<!--
-**raulzero75/raulzero75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É RAUL. SOU CHARMOSO.
 
-Here are some ideas to get you started:
+- ESTOU CURSANDO NA [ALURA](HTTPS://WWW.ALURA.COM.BR)
+- ESTOU ME DESENVENVOLVENDO NA LINGUAGEM JAVASCRIPT
+- UTILIZO ESTE ESPAÇO PARA A REALIZAÇÃO E ORGANIZAÇÃO DE PROJETOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### ENTRE EM CONTATO COMIGO
+  
+  0000121967378XSP@AL.EDUCACAO.SP.GOV.BR
+
+@BANDA.DELTA.G
+
+![](https://media1.tenor.com/m/QcrcBpXx3qYAAAAC/boy-kid.gif)
